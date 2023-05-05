@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Channel Client</string>
+    <string name="open_channel">Open Channel</string>
+    <string name="waiting_for_Wear_Connection">waiting for wear connection</string>
+    <string name="close_channel">Close Channel</string>
+    <string name="connecting_channel">Connecting Channel</string>
+    <string name="closing_channel">closing channel</string>
+</resources>
